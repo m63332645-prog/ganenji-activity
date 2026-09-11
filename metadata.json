@@ -1,0 +1,6 @@
+{
+  "name": "感恩季活动列表",
+  "description": "基于简洁卡片规范对感恩季活动内容进行排版重构的现代活动列表界面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
